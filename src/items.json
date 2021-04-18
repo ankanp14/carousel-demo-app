@@ -1,0 +1,104 @@
+[
+  {
+    "name": "A1",
+    "price": 2100,
+    "category": "Tour",
+    "imageUrl": "https://images.unsplash.com/photo-1549989476-69a92fa57c36?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "B1",
+    "price": 1400,
+    "category": "Camping",
+    "imageUrl": "https://images.unsplash.com/photo-1549396535-c11d5c55b9df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "C1",
+    "price": 800,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1550133730-695473e544be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "D1",
+    "price": 5000,
+    "category": "Tour",
+    "imageUrl": "https://images.unsplash.com/photo-1550167164-1b67c2be3973?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "E1",
+    "price": 3000,
+    "category": "Camping",
+    "imageUrl": "https://images.unsplash.com/photo-1550223640-23097fc71cb2?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "F1",
+    "price": 3340,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1550353175-a3611868086b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "G1",
+    "price": 6340,
+    "category": "Tour",
+    "imageUrl": "https://images.unsplash.com/photo-1550330039-a54e15ed9d33?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "H1",
+    "price": 1040,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1549737328-8b9f3252b927?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "I1",
+    "price": 5640,
+    "category": "Camping",
+    "imageUrl": "https://images.unsplash.com/photo-1550353175-a3611868086b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "J1",
+    "price": 6340,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1550330039-a54e15ed9d33?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "K1",
+    "price": 7840,
+    "category": "Tour",
+    "imageUrl": "https://images.unsplash.com/photo-1549737328-8b9f3252b927?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "L1",
+    "price": 1200,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1550223640-23097fc71cb2?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "M1",
+    "price": 1540,
+    "category": "Camping",
+    "imageUrl": "https://images.unsplash.com/photo-1550330039-a54e15ed9d33?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "N1",
+    "price": 5375,
+    "category": "Tour",
+    "imageUrl": "https://images.unsplash.com/photo-1550133730-695473e544be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "O1",
+    "price": 3420,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1550353175-a3611868086b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "P1",
+    "price": 6340,
+    "category": "Hiking",
+    "imageUrl": "https://images.unsplash.com/photo-1549396535-c11d5c55b9df?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "name": "Q1",
+    "price": 1040,
+    "category": "Camping",
+    "imageUrl": "https://images.unsplash.com/photo-1549737328-8b9f3252b927?auto=format&fit=crop&w=800&q=60"
+  }
+]
